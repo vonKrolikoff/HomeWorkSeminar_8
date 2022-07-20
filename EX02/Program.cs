@@ -11,10 +11,10 @@ PrintArray(array);
 Console.WriteLine();
 
 int minsumm = 0;
-int summline = SumOfElements(array, 0);
+int summline = SummOfElements(array, 0);
 for (int i = 1; i < array.GetLength(0); i++)
 {
-  int tempsumm = SumOfElements(array, i);
+  int tempsumm = SummOfElements(array, i);
   if (summline > tempsumm)
   {
     summline = tempsumm;
@@ -54,7 +54,7 @@ void PrintArray (int[,] array)
   }
 }
 
-int SumOfElements(int[,] array, int i)
+int SummOfElements(int[,] array, int i)
 {
   int summline = array[i,0];
   for (int j = 1; j < array.GetLength(1); j++)
