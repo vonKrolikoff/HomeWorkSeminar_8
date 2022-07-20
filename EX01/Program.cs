@@ -4,6 +4,7 @@ int m = Input("Введите m: ");
 int n = Input("Введите n: ");
 
 int[,] array = new int[m, n];
+Console.Clear();
 Console.WriteLine("Создан массив:");
 PourArray(array);
 PrintArray(array);
