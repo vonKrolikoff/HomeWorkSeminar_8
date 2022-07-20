@@ -56,10 +56,10 @@ void PrintArray (int[,] array)
 
 int SumOfElements(int[,] array, int i)
 {
-  int sumLine = array[i,0];
+  int summline = array[i,0];
   for (int j = 1; j < array.GetLength(1); j++)
   {
-    sumLine += array[i,j];
+    summline += array[i,j];
   }
-  return sumLine;
+  return summline;
 }
