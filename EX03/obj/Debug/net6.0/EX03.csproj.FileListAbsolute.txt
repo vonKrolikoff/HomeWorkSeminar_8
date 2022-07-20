@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\HWS_8\EX03\obj\Debug\net6.0\EX03.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\HWS_8\EX03\obj\Debug\net6.0\EX03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\HWS_8\EX03\obj\Debug\net6.0\EX03.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\HWS_8\EX03\obj\Debug\net6.0\EX03.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\HWS_8\EX03\obj\Debug\net6.0\EX03.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HWS_8\EX03\bin\Debug\net6.0\EX03.exe
+C:\Users\ASUS\Desktop\HWS_8\EX03\bin\Debug\net6.0\EX03.deps.json
+C:\Users\ASUS\Desktop\HWS_8\EX03\bin\Debug\net6.0\EX03.runtimeconfig.json
+C:\Users\ASUS\Desktop\HWS_8\EX03\bin\Debug\net6.0\EX03.dll
+C:\Users\ASUS\Desktop\HWS_8\EX03\bin\Debug\net6.0\EX03.pdb
+C:\Users\ASUS\Desktop\HWS_8\EX03\obj\Debug\net6.0\EX03.dll
+C:\Users\ASUS\Desktop\HWS_8\EX03\obj\Debug\net6.0\refint\EX03.dll
+C:\Users\ASUS\Desktop\HWS_8\EX03\obj\Debug\net6.0\EX03.pdb
+C:\Users\ASUS\Desktop\HWS_8\EX03\obj\Debug\net6.0\EX03.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\HWS_8\EX03\obj\Debug\net6.0\ref\EX03.dll
